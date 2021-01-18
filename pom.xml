@@ -1,24 +1,24 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.penalara.ghc</groupId>
-	<artifactId>engineOutputGHCFile</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <groupId>com.penalara.ghc</groupId>
+    <artifactId>engineOutputGHCFile</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
-	<name>EngineOuputGHCFile</name>
-	<description>Project with schema, examples, and Java POJO classes of Json file format to new PeñalaraGHC-Engine output.</description>
-	<organization>
-    	<name>Peñalara Software S.L.</name>
-    	<url>https://www.penalara.com</url>
- 	</organization>
-	<licenses>
-		<license>
-			<name>GNU Lesser General Public License v2.1</name>
-			<url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</url>
-		</license>
-	</licenses>
+    <name>EngineOuputGHCFile</name>
+    <description>Project with schema, examples, and Java POJO classes of Json file format to new PeñalaraGHC-Engine output.</description>
+    <organization>
+        <name>Peñalara Software S.L.</name>
+        <url>https://www.penalara.com</url>
+     </organization>
+    <licenses>
+        <license>
+            <name>GNU Lesser General Public License v2.1</name>
+            <url>https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</url>
+        </license>
+    </licenses>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>    
@@ -34,5 +34,32 @@
             <version>2.11.3</version>
         </dependency>
     </dependencies>
+    
+    <build>
+        <plugins>
+            <!--POJO generation-->
+            <plugin>
+                <groupId>org.jsonschema2pojo</groupId>
+                <artifactId>jsonschema2pojo-maven-plugin</artifactId>
+                <version>1.0.2</version>
+                <configuration> <!-- Documentation at http://joelittlejohn.github.io/jsonschema2pojo/site/1.0.2/generate-mojo.html -->
+                    <sourceDirectory>${basedir}/src/main/resources/schema</sourceDirectory>
+                    <targetPackage>com.penalara.ghc.jsonghcfile.engineoutput</targetPackage>
+                    <removeOldOutput>true</removeOldOutput>
+                    <includeHashcodeAndEquals>false</includeHashcodeAndEquals>
+                    <includeToString>false</includeToString>
+                    <useTitleAsClassname>true</useTitleAsClassname>
+                    <useDoubleNumbers>false</useDoubleNumbers>
+                </configuration>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>generate</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>          
+        </plugins>
+    </build>
   
 </project>
