@@ -50,6 +50,7 @@
                     <includeToString>false</includeToString>
                     <useTitleAsClassname>true</useTitleAsClassname>
                     <useDoubleNumbers>false</useDoubleNumbers>
+                    <includeConstructors>true</includeConstructors>
                 </configuration>
                 <executions>
                     <execution>
