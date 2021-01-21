@@ -51,6 +51,7 @@
                     <useTitleAsClassname>true</useTitleAsClassname>
                     <useDoubleNumbers>false</useDoubleNumbers>
                     <includeConstructors>true</includeConstructors>
+                    <formatDateTimes>true</formatDateTimes>
                 </configuration>
                 <executions>
                     <execution>
