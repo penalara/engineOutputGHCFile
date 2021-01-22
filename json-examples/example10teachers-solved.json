@@ -1,1 +1,1048 @@
-{"date":"2021-01-21T09:47:04.754Z","timetable":{"assigendSections":[{"refFrame":"B","day":3,"realIndex":8,"fictionalIndex":8,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Philip"]}]},{"refFrame":"B","day":4,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Rodolphus"]}]},{"refFrame":"B","day":3,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Peter"]}]},{"refFrame":"B","day":2,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"B","day":1,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Andrew"]}]},{"refFrame":"A","day":2,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"B","day":4,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"B","day":3,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Alice"]}]},{"refFrame":"B","day":2,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["James"]}]},{"refFrame":"B","day":1,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Ernest"]}]},{"refFrame":"B","day":0,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"A","day":2,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[]},{"refFrame":"B","day":1,"realIndex":8,"fictionalIndex":8,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"B","day":4,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[]},{"refFrame":"B","day":3,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Rodolphus"]}]},{"refFrame":"B","day":2,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"B","day":1,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Andrew"]}]},{"refFrame":"A","day":2,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"B","day":4,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"B","day":3,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["James"]}]},{"refFrame":"B","day":2,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Andrew"]}]},{"refFrame":"B","day":1,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"A","day":2,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"B","day":2,"realIndex":8,"fictionalIndex":8,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"B","day":4,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[]},{"refFrame":"B","day":3,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"B","day":2,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Rachel"]}]},{"refFrame":"B","day":1,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Ernest"]}]},{"refFrame":"A","day":2,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Ernest"]}]},{"refFrame":"B","day":4,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Alice"]}]},{"refFrame":"B","day":3,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Rachel"]}]},{"refFrame":"B","day":2,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Rachel"]}]},{"refFrame":"B","day":1,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"A","day":2,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Andrew"]}]},{"refFrame":"B","day":4,"realIndex":8,"fictionalIndex":8,"sessionsAsigned":[]},{"refFrame":"B","day":4,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[]},{"refFrame":"B","day":3,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"B","day":2,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"B","day":1,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]},{"refFrame":"A","day":2,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":2,"fictionalIndex":2,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":1,"fictionalIndex":1,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Ernest"]}]},{"refFrame":"B","day":0,"realIndex":8,"fictionalIndex":8,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Andrew"]}]},{"refFrame":"B","day":4,"realIndex":3,"fictionalIndex":3,"sessionsAsigned":[]},{"refFrame":"B","day":3,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Nuria"]}]},{"refFrame":"B","day":2,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Ernest"]}]},{"refFrame":"B","day":1,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"A","day":2,"realIndex":6,"fictionalIndex":6,"sessionsAsigned":[]},{"refFrame":"A","day":1,"realIndex":5,"fictionalIndex":5,"sessionsAsigned":[]},{"refFrame":"A","day":0,"realIndex":4,"fictionalIndex":4,"sessionsAsigned":[]},{"refFrame":"A","day":3,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[]},{"refFrame":"A","day":4,"realIndex":0,"fictionalIndex":0,"sessionsAsigned":[]},{"refFrame":"B","day":0,"realIndex":7,"fictionalIndex":7,"sessionsAsigned":[{"refSesion":61,"refClassRomms":[],"refTeachers":["Margaret"]}]}],"anonymousClassRooms":[]}}
+{
+    "date": "2021-01-22T08:48:46.330Z",
+    "timetable": {
+        "assigendSections": [{
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 8,
+                "fictionalIndex": 8,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 32,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Rachel"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 4,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 1,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 30,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Rodolphus"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 31,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 5,
+                "fictionalIndex": 5,
+                "sessionsAsigned": [{
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 1,
+                "realIndex": 6,
+                "fictionalIndex": 6,
+                "sessionsAsigned": [{
+                        "refSesion": 15,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 26,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 0,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 15,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 20,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Margaret"]
+                    }, {
+                        "refSesion": 47,
+                        "refClassRomms": [],
+                        "refTeachers": ["Philip", "Ernest", "Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 3,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 22,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 27,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 4,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 39,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 1,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 30,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 5,
+                "fictionalIndex": 5,
+                "sessionsAsigned": [{
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Rodolphus"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 32,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 2,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 41,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 1,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 22,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 25,
+                        "refClassRomms": ["Gym"],
+                        "refTeachers": ["Rachel"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 3,
+                "realIndex": 6,
+                "fictionalIndex": 6,
+                "sessionsAsigned": [{
+                        "refSesion": 19,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Ernest"]
+                    }, {
+                        "refSesion": 36,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 48,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 4,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 39,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Ernest"]
+                    }, {
+                        "refSesion": 49,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 8,
+                "fictionalIndex": 8,
+                "sessionsAsigned": [{
+                        "refSesion": 31,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 4,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 33,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 33,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Rodolphus"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 2,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 14,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 37,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 0,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 16,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 23,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 48,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 3,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 26,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Margaret"]
+                    }, {
+                        "refSesion": 35,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 46,
+                        "refClassRomms": [],
+                        "refTeachers": ["Alice", "James"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 4,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 17,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 21,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 31,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 33,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Rachel"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 31,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 33,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 2,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 8,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Rachel"]
+                    }, {
+                        "refSesion": 10,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 12,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 0,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 18,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Ernest"]
+                    }, {
+                        "refSesion": 37,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 60,
+                        "refClassRomms": [],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 1,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 14,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 37,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 8,
+                "fictionalIndex": 8,
+                "sessionsAsigned": [{
+                        "refSesion": 32,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Rachel"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 4,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 31,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 32,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 33,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 30,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 2,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 24,
+                        "refClassRomms": ["Gym"],
+                        "refTeachers": ["Rachel"]
+                    }, {
+                        "refSesion": 27,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 1,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 21,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Margaret"]
+                    }, {
+                        "refSesion": 36,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 0,
+                "realIndex": 6,
+                "fictionalIndex": 6,
+                "sessionsAsigned": [{
+                        "refSesion": 34,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 43,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 5,
+                "fictionalIndex": 5,
+                "sessionsAsigned": [{
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 4,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 30,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Philip"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 30,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 0,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 35,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 36,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 60,
+                        "refClassRomms": [],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 1,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 19,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Ernest"]
+                    }, {
+                        "refSesion": 24,
+                        "refClassRomms": ["Gym"],
+                        "refTeachers": ["Rachel"]
+                    }, {
+                        "refSesion": 60,
+                        "refClassRomms": [],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 3,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 34,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 49,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 4,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 14,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 23,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 32,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 4,
+                "realIndex": 8,
+                "fictionalIndex": 8,
+                "sessionsAsigned": [{
+                        "refSesion": 0,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 33,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 30,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 1,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 0,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 2,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 15,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 34,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 60,
+                        "refClassRomms": [],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 1,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 18,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Ernest"]
+                    }, {
+                        "refSesion": 23,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 48,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 3,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 17,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 23,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 49,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 4,
+                "realIndex": 6,
+                "fictionalIndex": 6,
+                "sessionsAsigned": [{
+                        "refSesion": 16,
+                        "refClassRomms": ["#A_An3"],
+                        "refTeachers": ["Rodolphus"]
+                    }, {
+                        "refSesion": 19,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Ernest"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 1,
+                "fictionalIndex": 1,
+                "sessionsAsigned": [{
+                        "refSesion": 29,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 32,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["James"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 8,
+                "fictionalIndex": 8,
+                "sessionsAsigned": [{
+                        "refSesion": 33,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["James"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 4,
+                "realIndex": 3,
+                "fictionalIndex": 3,
+                "sessionsAsigned": [{
+                        "refSesion": 31,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 32,
+                        "refClassRomms": ["A-31"],
+                        "refTeachers": ["Philip"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 3,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Peter"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 2,
+                "realIndex": 5,
+                "fictionalIndex": 5,
+                "sessionsAsigned": [{
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["James"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 2,
+                "realIndex": 6,
+                "fictionalIndex": 6,
+                "sessionsAsigned": [{
+                        "refSesion": 41,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 49,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 0,
+                "realIndex": 4,
+                "fictionalIndex": 4,
+                "sessionsAsigned": [{
+                        "refSesion": 22,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Nuria"]
+                    }, {
+                        "refSesion": 25,
+                        "refClassRomms": ["Gym"],
+                        "refTeachers": ["Rachel"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 3,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 20,
+                        "refClassRomms": ["Music room"],
+                        "refTeachers": ["Margaret"]
+                    }, {
+                        "refSesion": 45,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Philip"]
+                    }, {
+                        "refSesion": 48,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }
+                ]
+            }, {
+                "refFrame": "A",
+                "day": 4,
+                "realIndex": 0,
+                "fictionalIndex": 0,
+                "sessionsAsigned": [{
+                        "refSesion": 18,
+                        "refClassRomms": ["#A_An1"],
+                        "refTeachers": ["Ernest"]
+                    }, {
+                        "refSesion": 35,
+                        "refClassRomms": ["#A_An2"],
+                        "refTeachers": ["Peter"]
+                    }, {
+                        "refSesion": 48,
+                        "refClassRomms": [],
+                        "refTeachers": ["Andrew"]
+                    }, {
+                        "refSesion": 49,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }, {
+                        "refSesion": 60,
+                        "refClassRomms": [],
+                        "refTeachers": ["Nuria"]
+                    }
+                ]
+            }, {
+                "refFrame": "B",
+                "day": 0,
+                "realIndex": 7,
+                "fictionalIndex": 7,
+                "sessionsAsigned": [{
+                        "refSesion": 28,
+                        "refClassRomms": ["A-23"],
+                        "refTeachers": ["Alice"]
+                    }, {
+                        "refSesion": 61,
+                        "refClassRomms": [],
+                        "refTeachers": ["Margaret"]
+                    }
+                ]
+            }
+        ],
+        "anonymousClassRooms": [{
+                "refClassRoomsSet": "general",
+                "classRoomsCreated": ["#A_An3", "#A_An1", "#A_An2"]
+            }
+        ]
+    }
+}
