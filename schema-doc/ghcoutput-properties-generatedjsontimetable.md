@@ -19,24 +19,24 @@ Object with the specification of the resolved schedule.
 
 | Property                                    | Type    | Required | Nullable       | Defined by                                                                                                                                                                               |
 | :------------------------------------------ | ------- | -------- | -------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [assigendSections](#assigendsections)       | `array` | Required | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assigendsections.md "engineOutputGHCSchema#/properties/timetable/properties/assigendSections")            |
+| [assignedSections](#assignedsections)       | `array` | Required | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections")            |
 | [anonymousClassRooms](#anonymousclassrooms) | `array` | Optional | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms.md "engineOutputGHCSchema#/properties/timetable/properties/anonymousClassRooms") |
 
-## assigendSections
+## assignedSections
 
 List of sections assigned in the Timetable.
 
 
-`assigendSections`
+`assignedSections`
 
 -   is required
--   Type: `object[]` ([AssigendSection](ghcoutput-properties-generatedjsontimetable-properties-assigendsections-assigendsection.md))
+-   Type: `object[]` ([AssignedSection](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection.md))
 -   cannot be null
--   defined in: [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assigendsections.md "engineOutputGHCSchema#/properties/timetable/properties/assigendSections")
+-   defined in: [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections")
 
-### assigendSections Type
+### assignedSections Type
 
-`object[]` ([AssigendSection](ghcoutput-properties-generatedjsontimetable-properties-assigendsections-assigendsection.md))
+`object[]` ([AssignedSection](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection.md))
 
 ## anonymousClassRooms
 

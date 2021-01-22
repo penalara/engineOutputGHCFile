@@ -20,16 +20,16 @@
             "description": "Object with the specification of the resolved schedule.",
             "type": "object",
             "required": [
-                "assigendSections"
+                "assignedSections"
             ],
             "properties": {
-                "assigendSections": {
-                    "title": "AssigendSections",
+                "assignedSections": {
+                    "title": "AssignedSections",
                     "description": "List of sections assigned in the Timetable.",
                     "type": "array",
                     "additionalItems": false,
                     "items": {
-                        "title": "AssigendSection",
+                        "title": "AssignedSection",
                         "description": "Section with one or more session (or on call hours) assigned.",
                         "type": "object",
                         "required": [
@@ -57,13 +57,13 @@
                                 "type": "integer",
                                 "$comment": "The engine make the ficticial sections, as a division of Real Sections."
                             },
-                            "sessionsAsigned": {
-                                "title": "SessionsAsigned",
+                            "sessionsAssigned": {
+                                "title": "SessionsAssigned",
                                 "description": "List of, session and on call hours, assigned at the section.",
                                 "type": "array",
                                 "additionalItems": false,
                                 "items": {
-                                    "title": "SessionAsigned",
+                                    "title": "SessionAssigned",
                                     "description": "Session, or on call hour, assigned in the timetable.",
                                     "type": "object",
                                     "required": [
