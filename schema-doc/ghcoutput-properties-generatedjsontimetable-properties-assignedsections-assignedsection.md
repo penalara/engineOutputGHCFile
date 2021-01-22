@@ -23,7 +23,7 @@ Section with one or more session (or on call hours) assigned.
 | [day](#day)                           | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-day.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/day")                           |
 | [realIndex](#realindex)               | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-realindex.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/realIndex")               |
 | [fictionalIndex](#fictionalindex)     | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-fictionalindex.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex")     |
-| [sessionsAssigned](#sessionsassigned) | `array`   | Optional | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned") |
+| [sessionsAssigned](#sessionsassigned) | `array`   | Required | cannot be null | [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned") |
 
 ## refFrame
 
@@ -99,7 +99,7 @@ List of, session and on call hours, assigned at the section.
 
 `sessionsAssigned`
 
--   is optional
+-   is required
 -   Type: `object[]` ([SessionAssigned](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned.md))
 -   cannot be null
 -   defined in: [EngineOutputGHCSchema](ghcoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned")
