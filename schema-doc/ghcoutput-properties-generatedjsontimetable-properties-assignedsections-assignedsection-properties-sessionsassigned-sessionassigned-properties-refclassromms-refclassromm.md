@@ -7,7 +7,7 @@ engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/pr
 Identifier of the classroom in the input file.
 
 
-> On call services never have assigned rooms.
+> On-call services do not have classrooms assigned to them.
 >
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

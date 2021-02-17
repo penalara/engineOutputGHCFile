@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet
 ```
 
-Identifier name of the ClassRooms group.
+Identifier of the ClassRooms group.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

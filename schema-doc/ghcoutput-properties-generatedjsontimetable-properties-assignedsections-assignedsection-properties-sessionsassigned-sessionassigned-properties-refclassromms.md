@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms
 ```
 
-List of classrooms assigned to teach the session.
+List of classrooms assigned to teach the class unit.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

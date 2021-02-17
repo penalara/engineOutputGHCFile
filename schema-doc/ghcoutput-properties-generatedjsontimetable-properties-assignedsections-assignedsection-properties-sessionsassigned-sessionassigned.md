@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items
 ```
 
-Session, or on call hour, assigned in the timetable.
+Class unit or on call hour assigned in the timetable.
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |
@@ -41,7 +41,7 @@ Identifier of the session in the input file.
 
 ## refClassRomms
 
-List of classrooms assigned to teach the session.
+List of classrooms assigned to teach the class unit.
 
 
 `refClassRomms`
@@ -57,7 +57,7 @@ List of classrooms assigned to teach the session.
 
 ## refTeachers
 
-List of teachers assigned to the session.
+List of teachers assigned to the class unit.
 
 
 `refTeachers`

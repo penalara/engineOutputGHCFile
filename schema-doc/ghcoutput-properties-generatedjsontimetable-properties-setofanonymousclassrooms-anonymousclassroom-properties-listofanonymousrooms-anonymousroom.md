@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated/items
 ```
 
-Identifier name of the anonymous classroom.
+Identifier of the anonymous classroom.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/refFrame
 ```
 
-Frame's section of timetable with assignation.
+Frame timetable section with assignment.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

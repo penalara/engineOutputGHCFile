@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers
 ```
 
-List of teachers assigned to the session.
+List of teachers assigned to the class unit.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

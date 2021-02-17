@@ -24,7 +24,7 @@ Object with anonymous classrooms created in a set of classrooms.
 
 ## refClassRoomsSet
 
-Identifier name of the ClassRooms group.
+Identifier of the ClassRooms group.
 
 
 `refClassRoomsSet`

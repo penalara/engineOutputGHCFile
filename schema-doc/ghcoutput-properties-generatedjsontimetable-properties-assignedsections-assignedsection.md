@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items
 ```
 
-Section with one or more session (or on call hours) assigned.
+Section with one class units (or on call hours) assigned.
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |
@@ -27,7 +27,7 @@ Section with one or more session (or on call hours) assigned.
 
 ## refFrame
 
-Frame's section of timetable with assignation.
+Frame timetable section with assignment.
 
 
 `refFrame`
@@ -43,7 +43,7 @@ Frame's section of timetable with assignation.
 
 ## day
 
-Day of the week when is located the section.
+Day of the week when the section is located.
 
 
 `day`
@@ -75,10 +75,10 @@ Position on the day, of the real section, in the frame.
 
 ## fictionalIndex
 
-Position on the day, of the ficticial section, in the frame.
+Position on the day, of the fictional section, in the frame.
 
 
-> The engine make the ficticial sections, as a division of Real Sections.
+> The engine make the fictional sections, as a division of Real Sections.
 >
 
 `fictionalIndex`
@@ -94,7 +94,7 @@ Position on the day, of the ficticial section, in the frame.
 
 ## sessionsAssigned
 
-List of, session and on call hours, assigned at the section.
+List of class units and on call hours assigned in the section.
 
 
 `sessionsAssigned`

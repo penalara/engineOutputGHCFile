@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned
 ```
 
-List of, session and on call hours, assigned at the section.
+List of class units and on call hours assigned in the section.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

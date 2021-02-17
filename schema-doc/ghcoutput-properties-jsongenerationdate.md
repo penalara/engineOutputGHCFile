@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/date
 ```
 
-Timetable's generation date.
+Date of timetable creation.
 
 
 | Abstract            | Extensible | Status         | Identifiable            | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |

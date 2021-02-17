@@ -4,7 +4,7 @@
 engineOutputGHCSchema#/properties/timetable
 ```
 
-Object with the specification of the resolved schedule.
+Object with timetable specification resolved.
 
 
 | Abstract            | Extensible | Status         | Identifiable | Custom Properties | Additional Properties | Access Restrictions | Defined In                                                                     |
@@ -40,7 +40,7 @@ List of sections assigned in the Timetable.
 
 ## anonymousClassRooms
 
-Collection with anonymous classrooms made by the engine. The classrooms are grouped by set of classrooms.
+Collection with anonymous classrooms created by the engine. The classrooms are grouped by set of classrooms.
 
 
 `anonymousClassRooms`
