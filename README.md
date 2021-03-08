@@ -14,6 +14,16 @@ The projects contains:
 
 
 
-
-
 Check the [Reference Documentation about Schema](schema-doc/README.md)
+
+
+
+### Get POJO Classes as Maven Dependency
+
+You can add this code to your pom.xml to get the Java Class to serialize/deserialize the GHC-Engine output json .
+
+        <dependency>
+        	<groupId>com.penalara.ghc</groupId>
+        	<artifactId>engineOutputGHCFile</artifactId>
+        	<version>1.0.0</version>
+        </dependency>
