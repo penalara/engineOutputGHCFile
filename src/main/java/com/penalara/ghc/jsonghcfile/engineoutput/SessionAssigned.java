@@ -2,12 +2,7 @@
 package com.penalara.ghc.jsonghcfile.engineoutput;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
-import com.fasterxml.jackson.annotation.JsonAnyGetter;
-import com.fasterxml.jackson.annotation.JsonAnySetter;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyDescription;
@@ -54,8 +49,6 @@ public class SessionAssigned {
     @JsonProperty("refTeachers")
     @JsonPropertyDescription("List of teachers assigned to the class unit.")
     private List<String> refTeachers = new ArrayList<String>();
-    @JsonIgnore
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     /**
      * No args constructor for use in serialization
@@ -67,8 +60,11 @@ public class SessionAssigned {
     /**
      * 
      * @param refTeachers
+     *     RefTeachers. List of teachers assigned to the class unit.
      * @param refClassRomms
+     *     RefclassRomms. List of classrooms assigned to teach the class unit.
      * @param refSesion
+     *     Identifier of the session in the input file.
      */
     public SessionAssigned(Integer refSesion, List<String> refClassRomms, List<String> refTeachers) {
         super();
@@ -139,16 +135,6 @@ public class SessionAssigned {
     @JsonProperty("refTeachers")
     public void setRefTeachers(List<String> refTeachers) {
         this.refTeachers = refTeachers;
-    }
-
-    @JsonAnyGetter
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
-    }
-
-    @JsonAnySetter
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
     }
 
 }
