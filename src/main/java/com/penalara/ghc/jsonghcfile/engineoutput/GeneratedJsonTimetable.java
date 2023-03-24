@@ -52,7 +52,9 @@ public class GeneratedJsonTimetable {
     /**
      * 
      * @param anonymousClassRooms
+     *     SetOfAnonymousClassRooms. Collection with anonymous classrooms created by the engine. The classrooms are grouped by set of classrooms.
      * @param assignedSections
+     *     AssignedSections. List of sections assigned in the Timetable.
      */
     public GeneratedJsonTimetable(List<AssignedSection> assignedSections, List<AnonymousClassRoom> anonymousClassRooms) {
         super();

@@ -2,12 +2,6 @@
 package com.penalara.ghc.jsonghcfile.engineoutput;
 
 import java.util.Date;
-import java.util.HashMap;
-import java.util.Map;
-import com.fasterxml.jackson.annotation.JsonAnyGetter;
-import com.fasterxml.jackson.annotation.JsonAnySetter;
-import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyDescription;
@@ -34,7 +28,6 @@ public class EngineOutputGHCSchema {
      * (Required)
      * 
      */
-    @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd'T'HH:mm:ss.SSSXXX", timezone = "UTC")
     @JsonProperty("date")
     @JsonPropertyDescription("Date of timetable creation.")
     private Date date;
@@ -48,8 +41,6 @@ public class EngineOutputGHCSchema {
     @JsonProperty("timetable")
     @JsonPropertyDescription("Object with timetable specification resolved.")
     private GeneratedJsonTimetable timetable;
-    @JsonIgnore
-    private Map<String, Object> additionalProperties = new HashMap<String, Object>();
 
     /**
      * No args constructor for use in serialization
@@ -61,7 +52,9 @@ public class EngineOutputGHCSchema {
     /**
      * 
      * @param date
+     *     JsonGenerationDate. Date of timetable creation.
      * @param timetable
+     *     GeneratedJsonTimetable. Object with timetable specification resolved.
      */
     public EngineOutputGHCSchema(Date date, GeneratedJsonTimetable timetable) {
         super();
@@ -115,16 +108,6 @@ public class EngineOutputGHCSchema {
     @JsonProperty("timetable")
     public void setTimetable(GeneratedJsonTimetable timetable) {
         this.timetable = timetable;
-    }
-
-    @JsonAnyGetter
-    public Map<String, Object> getAdditionalProperties() {
-        return this.additionalProperties;
-    }
-
-    @JsonAnySetter
-    public void setAdditionalProperty(String name, Object value) {
-        this.additionalProperties.put(name, value);
     }
 
 }

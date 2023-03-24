@@ -50,7 +50,7 @@ public class AssignedSection {
     @JsonPropertyDescription("Position on the day, of the real section, in the frame.")
     private Integer realIndex;
     /**
-     * Position on the day, of the fictional section, in the frame.
+     * Position on the day, of the fictional section, in the frame.The engine make the fictional sections, as a division of Real Sections.
      * (Required)
      * 
      */
@@ -78,10 +78,15 @@ public class AssignedSection {
     /**
      * 
      * @param refFrame
+     *     Frame timetable section with assignment.
      * @param realIndex
+     *     Position on the day, of the real section, in the frame.
      * @param day
+     *     Day of the week when the section is located.
      * @param sessionsAssigned
+     *     SessionsAssigned. List of class units and on call hours assigned in the section.
      * @param fictionalIndex
+     *     Position on the day, of the fictional section, in the frame.
      */
     public AssignedSection(String refFrame, Integer day, Integer realIndex, Integer fictionalIndex, List<SessionAssigned> sessionsAssigned) {
         super();
@@ -153,7 +158,7 @@ public class AssignedSection {
     }
 
     /**
-     * Position on the day, of the fictional section, in the frame.
+     * Position on the day, of the fictional section, in the frame.The engine make the fictional sections, as a division of Real Sections.
      * (Required)
      * 
      */
@@ -163,7 +168,7 @@ public class AssignedSection {
     }
 
     /**
-     * Position on the day, of the fictional section, in the frame.
+     * Position on the day, of the fictional section, in the frame.The engine make the fictional sections, as a division of Real Sections.
      * (Required)
      * 
      */

@@ -51,7 +51,9 @@ public class AnonymousClassRoom {
     /**
      * 
      * @param refClassRoomsSet
+     *     Identifier of the ClassRooms group.
      * @param classRoomsCreated
+     *     ListOfAnonymousRooms. List of anonymous classroom created in one set of classrooms.
      */
     public AnonymousClassRoom(String refClassRoomsSet, List<String> classRoomsCreated) {
         super();
