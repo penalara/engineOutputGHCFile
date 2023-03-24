@@ -7,7 +7,7 @@
     <packaging>jar</packaging>
 
     <name>EngineOuputGHCFile</name>
-    <description>Project with schema, examples, and Java POJO classes of Json file format to new PeñalaraGHC-Engine output.</description>
+    <description>Project with Java POJO classes of Json file format to new PeñalaraGHC-Engine output.</description>
 	<url>https://github.com/penalara/engineOutputGHCFile</url>
     <organization>
         <name>Peñalara Software S.L.</name>
@@ -56,32 +56,6 @@
     
     <build>
         <plugins>
-            <!--POJO generation-->
-            <plugin>
-                <groupId>org.jsonschema2pojo</groupId>
-                <artifactId>jsonschema2pojo-maven-plugin</artifactId>
-                <version>1.0.2</version>
-                <configuration> <!-- Documentation at http://joelittlejohn.github.io/jsonschema2pojo/site/1.0.2/generate-mojo.html -->
-                    <sourceDirectory>${basedir}/src/main/resources/schema</sourceDirectory>
-                    <outputDirectory>${basedir}/src/main/java</outputDirectory>
-                    <targetPackage>com.penalara.ghc.jsonghcfile.engineoutput</targetPackage>
-                    <removeOldOutput>true</removeOldOutput>
-                    <includeHashcodeAndEquals>false</includeHashcodeAndEquals>
-                    <includeToString>false</includeToString>
-                    <useTitleAsClassname>true</useTitleAsClassname>
-                    <useDoubleNumbers>false</useDoubleNumbers>
-                    <includeConstructors>true</includeConstructors>
-                    <formatDateTimes>true</formatDateTimes>
-                </configuration>
-                <executions>
-                    <execution>
-					<phase>generate-sources</phase>
-                        <goals>
-                            <goal>generate</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
         	<!-- Sources -->
         	<plugin>
     			<groupId>org.apache.maven.plugins</groupId>
