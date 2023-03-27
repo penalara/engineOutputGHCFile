@@ -17,6 +17,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 @JsonInclude(JsonInclude.Include.NON_NULL)
 @JsonPropertyOrder({
     "date",
+    "weight",
     "timetable"
 })
 public class EngineOutputGHCSchema {
@@ -24,13 +25,22 @@ public class EngineOutputGHCSchema {
     /**
      * JsonGenerationDate
      * <p>
-     * Date of timetable creation.
-     * (Required)
+     * Date of result creation.
      * 
      */
     @JsonProperty("date")
-    @JsonPropertyDescription("Date of timetable creation.")
+    @JsonPropertyDescription("Date of result creation.")
     private Date date;
+    /**
+     * JsonGenerationDate
+     * <p>
+     * Weight of the result according to the non-mandatory conditions not fulfilled.
+     * (Required)
+     * 
+     */
+    @JsonProperty("weight")
+    @JsonPropertyDescription("Weight of the result according to the non-mandatory conditions not fulfilled.")
+    private Integer weight;
     /**
      * GeneratedJsonTimetable
      * <p>
@@ -52,21 +62,23 @@ public class EngineOutputGHCSchema {
     /**
      * 
      * @param date
-     *     JsonGenerationDate. Date of timetable creation.
+     *     JsonGenerationDate. Date of result creation.
+     * @param weight
+     *     JsonGenerationDate. Weight of the result according to the non-mandatory conditions not fulfilled.
      * @param timetable
      *     GeneratedJsonTimetable. Object with timetable specification resolved.
      */
-    public EngineOutputGHCSchema(Date date, GeneratedJsonTimetable timetable) {
+    public EngineOutputGHCSchema(Date date, Integer weight, GeneratedJsonTimetable timetable) {
         super();
         this.date = date;
+        this.weight = weight;
         this.timetable = timetable;
     }
 
     /**
      * JsonGenerationDate
      * <p>
-     * Date of timetable creation.
-     * (Required)
+     * Date of result creation.
      * 
      */
     @JsonProperty("date")
@@ -77,13 +89,36 @@ public class EngineOutputGHCSchema {
     /**
      * JsonGenerationDate
      * <p>
-     * Date of timetable creation.
-     * (Required)
+     * Date of result creation.
      * 
      */
     @JsonProperty("date")
     public void setDate(Date date) {
         this.date = date;
+    }
+
+    /**
+     * JsonGenerationDate
+     * <p>
+     * Weight of the result according to the non-mandatory conditions not fulfilled.
+     * (Required)
+     * 
+     */
+    @JsonProperty("weight")
+    public Integer getWeight() {
+        return weight;
+    }
+
+    /**
+     * JsonGenerationDate
+     * <p>
+     * Weight of the result according to the non-mandatory conditions not fulfilled.
+     * (Required)
+     * 
+     */
+    @JsonProperty("weight")
+    public void setWeight(Integer weight) {
+        this.weight = weight;
     }
 
     /**
