@@ -8,11 +8,11 @@ Maven project which contains the specification of the Json format of output file
 The projects contains:
 
  - Java POJO classes.
- - Markdown Documentation about the file structure.
+ - Markdown Documentation about classes structure.
 
 
 
-Check the [Reference Documentation about Schema](doc/README.md)
+Check the [Reference Documentation about the Schema which origins the POJO classes](doc/README.md)
 
 
 
