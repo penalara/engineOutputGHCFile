@@ -1,7 +1,7 @@
 # GeneratedJsonTimetable Schema
 
 ```txt
-undefined#/properties/timetable
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable
 ```
 
 Object with timetable specification resolved.
@@ -16,10 +16,10 @@ Object with timetable specification resolved.
 
 # timetable Properties
 
-| Property                                    | Type    | Required | Nullable       | Defined by                                                                                                                                                                         |
-| :------------------------------------------ | :------ | :------- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [assignedSections](#assignedsections)       | `array` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections.md "undefined#/properties/timetable/properties/assignedSections")            |
-| [anonymousClassRooms](#anonymousclassrooms) | `array` | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms.md "undefined#/properties/timetable/properties/anonymousClassRooms") |
+| Property                                    | Type    | Required | Nullable       | Defined by                                                                                                                                                                                                                                                               |
+| :------------------------------------------ | :------ | :------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [assignedSections](#assignedsections)       | `array` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections")            |
+| [anonymousClassRooms](#anonymousclassrooms) | `array` | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms") |
 
 ## assignedSections
 
@@ -33,7 +33,7 @@ List of sections assigned in the Timetable.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections.md "undefined#/properties/timetable/properties/assignedSections")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections")
 
 ### assignedSections Type
 
@@ -51,7 +51,7 @@ Collection with anonymous classrooms created by the engine. The classrooms are g
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms.md "undefined#/properties/timetable/properties/anonymousClassRooms")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms")
 
 ### anonymousClassRooms Type
 

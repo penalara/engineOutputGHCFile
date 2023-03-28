@@ -1,7 +1,7 @@
 # AnonymousClassRoom Schema
 
 ```txt
-undefined#/properties/timetable/properties/anonymousClassRooms/items
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items
 ```
 
 Object with anonymous classrooms created in a set of classrooms.
@@ -16,10 +16,10 @@ Object with anonymous classrooms created in a set of classrooms.
 
 # items Properties
 
-| Property                                | Type     | Required | Nullable       | Defined by                                                                                                                                                                                                                                                               |
-| :-------------------------------------- | :------- | :------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [refClassRoomsSet](#refclassroomsset)   | `string` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-refclassroomsset.md "undefined#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet")      |
-| [classRoomsCreated](#classroomscreated) | `array`  | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-listofanonymousrooms.md "undefined#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated") |
+| Property                                | Type     | Required | Nullable       | Defined by                                                                                                                                                                                                                                                                                                                                                     |
+| :-------------------------------------- | :------- | :------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [refClassRoomsSet](#refclassroomsset)   | `string` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-refclassroomsset.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet")      |
+| [classRoomsCreated](#classroomscreated) | `array`  | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-listofanonymousrooms.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated") |
 
 ## refClassRoomsSet
 
@@ -33,7 +33,7 @@ Identifier of the ClassRooms group.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-refclassroomsset.md "undefined#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-refclassroomsset.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet")
 
 ### refClassRoomsSet Type
 
@@ -51,7 +51,7 @@ List of anonymous classroom created in one set of classrooms.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-listofanonymousrooms.md "undefined#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-setofanonymousclassrooms-anonymousclassroom-properties-listofanonymousrooms.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated")
 
 ### classRoomsCreated Type
 

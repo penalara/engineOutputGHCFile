@@ -1,7 +1,7 @@
 # AnonymousRoom Schema
 
 ```txt
-undefined#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated/items
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items/properties/classRoomsCreated/items
 ```
 
 Identifier of the anonymous classroom.

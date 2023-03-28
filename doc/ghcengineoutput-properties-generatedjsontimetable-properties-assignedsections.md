@@ -1,7 +1,7 @@
 # AssignedSections Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections
 ```
 
 List of sections assigned in the Timetable.

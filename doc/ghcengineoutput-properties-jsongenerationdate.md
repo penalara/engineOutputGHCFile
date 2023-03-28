@@ -1,7 +1,7 @@
 # JsonGenerationDate Schema
 
 ```txt
-undefined#/properties/date
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/date
 ```
 
 Date of result creation.

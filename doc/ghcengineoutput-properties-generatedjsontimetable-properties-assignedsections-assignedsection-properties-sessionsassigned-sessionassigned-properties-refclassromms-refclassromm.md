@@ -1,7 +1,7 @@
 # RefclassRomm Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms/items
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms/items
 ```
 
 Identifier of the classroom in the input file.

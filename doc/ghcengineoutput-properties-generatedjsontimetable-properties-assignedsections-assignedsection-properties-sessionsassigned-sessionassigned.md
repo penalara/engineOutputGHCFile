@@ -1,7 +1,7 @@
 # SessionAssigned Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items
 ```
 
 Class unit or on call hour assigned in the timetable.
@@ -16,11 +16,11 @@ Class unit or on call hour assigned in the timetable.
 
 # items Properties
 
-| Property                        | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                                                                                                                    |
-| :------------------------------ | :-------- | :------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [refSesion](#refsesion)         | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refsesion.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refSesion")         |
-| [refClassRomms](#refclassromms) | `array`   | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refclassromms.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms") |
-| [refTeachers](#refteachers)     | `array`   | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refteachers.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers")     |
+| Property                        | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :------------------------------ | :-------- | :------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [refSesion](#refsesion)         | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refsesion.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refSesion")         |
+| [refClassRomms](#refclassromms) | `array`   | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refclassromms.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms") |
+| [refTeachers](#refteachers)     | `array`   | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refteachers.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers")     |
 
 ## refSesion
 
@@ -34,7 +34,7 @@ Identifier of the session in the input file.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refsesion.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refSesion")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refsesion.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refSesion")
 
 ### refSesion Type
 
@@ -52,7 +52,7 @@ List of classrooms assigned to teach the class unit.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refclassromms.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refclassromms.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refClassRomms")
 
 ### refClassRomms Type
 
@@ -70,7 +70,7 @@ List of teachers assigned to the class unit.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refteachers.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned-sessionassigned-properties-refteachers.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers")
 
 ### refTeachers Type
 

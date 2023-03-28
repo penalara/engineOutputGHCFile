@@ -1,7 +1,7 @@
 # SetOfAnonymousClassRooms Schema
 
 ```txt
-undefined#/properties/timetable/properties/anonymousClassRooms
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms
 ```
 
 Collection with anonymous classrooms created by the engine. The classrooms are grouped by set of classrooms.

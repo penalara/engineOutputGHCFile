@@ -1,7 +1,7 @@
 # Untitled string in EngineOutputGHCSchema Schema
 
 ```txt
-undefined#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/anonymousClassRooms/items/properties/refClassRoomsSet
 ```
 
 Identifier of the ClassRooms group.

@@ -1,7 +1,7 @@
 # Untitled integer in EngineOutputGHCSchema Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refSesion
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refSesion
 ```
 
 Identifier of the session in the input file.

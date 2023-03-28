@@ -1,7 +1,7 @@
 # SessionsAssigned Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned
 ```
 
 List of class units and on call hours assigned in the section.

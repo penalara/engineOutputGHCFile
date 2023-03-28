@@ -1,7 +1,7 @@
 # RefTeacher Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers/items
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned/items/properties/refTeachers/items
 ```
 
 Identifier of the teacher in the input file.

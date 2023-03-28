@@ -1,7 +1,7 @@
 # Untitled integer in EngineOutputGHCSchema Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex
 ```
 
 Position on the day, of the fictional section, in the frame.

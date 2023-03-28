@@ -1,7 +1,7 @@
 # JsonGenerationDate Schema
 
 ```txt
-undefined#/properties/weight
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/weight
 ```
 
 Weight of the result according to the non-mandatory conditions not fulfilled.

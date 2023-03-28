@@ -1,7 +1,7 @@
 # Untitled integer in EngineOutputGHCSchema Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/day
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/day
 ```
 
 Day of the week when the section is located.

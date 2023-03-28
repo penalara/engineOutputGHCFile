@@ -1,7 +1,7 @@
 # Untitled integer in EngineOutputGHCSchema Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items/properties/realIndex
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/realIndex
 ```
 
 Position on the day, of the real section, in the frame.

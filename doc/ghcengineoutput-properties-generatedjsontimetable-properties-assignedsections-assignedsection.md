@@ -1,7 +1,7 @@
 # AssignedSection Schema
 
 ```txt
-undefined#/properties/timetable/properties/assignedSections/items
+https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items
 ```
 
 Section with one class units (or on call hours) assigned.
@@ -16,13 +16,13 @@ Section with one class units (or on call hours) assigned.
 
 # items Properties
 
-| Property                              | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                                            |
-| :------------------------------------ | :-------- | :------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [refFrame](#refframe)                 | `string`  | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-refframe.md "undefined#/properties/timetable/properties/assignedSections/items/properties/refFrame")                 |
-| [day](#day)                           | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-day.md "undefined#/properties/timetable/properties/assignedSections/items/properties/day")                           |
-| [realIndex](#realindex)               | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-realindex.md "undefined#/properties/timetable/properties/assignedSections/items/properties/realIndex")               |
-| [fictionalIndex](#fictionalindex)     | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-fictionalindex.md "undefined#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex")     |
-| [sessionsAssigned](#sessionsassigned) | `array`   | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned") |
+| Property                              | Type      | Required | Nullable       | Defined by                                                                                                                                                                                                                                                                                                                                  |
+| :------------------------------------ | :-------- | :------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [refFrame](#refframe)                 | `string`  | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-refframe.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/refFrame")                 |
+| [day](#day)                           | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-day.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/day")                           |
+| [realIndex](#realindex)               | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-realindex.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/realIndex")               |
+| [fictionalIndex](#fictionalindex)     | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-fictionalindex.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex")     |
+| [sessionsAssigned](#sessionsassigned) | `array`   | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned") |
 
 ## refFrame
 
@@ -36,7 +36,7 @@ Frame timetable section with assignment.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-refframe.md "undefined#/properties/timetable/properties/assignedSections/items/properties/refFrame")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-refframe.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/refFrame")
 
 ### refFrame Type
 
@@ -54,7 +54,7 @@ Day of the week when the section is located.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-day.md "undefined#/properties/timetable/properties/assignedSections/items/properties/day")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-day.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/day")
 
 ### day Type
 
@@ -72,7 +72,7 @@ Position on the day, of the real section, in the frame.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-realindex.md "undefined#/properties/timetable/properties/assignedSections/items/properties/realIndex")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-realindex.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/realIndex")
 
 ### realIndex Type
 
@@ -92,7 +92,7 @@ Position on the day, of the fictional section, in the frame.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-fictionalindex.md "undefined#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-fictionalindex.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/fictionalIndex")
 
 ### fictionalIndex Type
 
@@ -110,7 +110,7 @@ List of class units and on call hours assigned in the section.
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "undefined#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable-properties-assignedsections-assignedsection-properties-sessionsassigned.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable/properties/assignedSections/items/properties/sessionsAssigned")
 
 ### sessionsAssigned Type
 
