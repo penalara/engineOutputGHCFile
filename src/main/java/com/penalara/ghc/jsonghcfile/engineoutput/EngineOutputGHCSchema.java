@@ -32,7 +32,7 @@ public class EngineOutputGHCSchema {
     @JsonPropertyDescription("Date of result creation.")
     private Date date;
     /**
-     * JsonGenerationDate
+     * ResultWeight
      * <p>
      * Weight of the result according to the non-mandatory conditions not fulfilled.
      * (Required)
@@ -64,7 +64,7 @@ public class EngineOutputGHCSchema {
      * @param date
      *     JsonGenerationDate. Date of result creation.
      * @param weight
-     *     JsonGenerationDate. Weight of the result according to the non-mandatory conditions not fulfilled.
+     *     ResultWeight. Weight of the result according to the non-mandatory conditions not fulfilled.
      * @param timetable
      *     GeneratedJsonTimetable. Object with timetable specification resolved.
      */
@@ -98,7 +98,7 @@ public class EngineOutputGHCSchema {
     }
 
     /**
-     * JsonGenerationDate
+     * ResultWeight
      * <p>
      * Weight of the result according to the non-mandatory conditions not fulfilled.
      * (Required)
@@ -110,7 +110,7 @@ public class EngineOutputGHCSchema {
     }
 
     /**
-     * JsonGenerationDate
+     * ResultWeight
      * <p>
      * Weight of the result according to the non-mandatory conditions not fulfilled.
      * (Required)

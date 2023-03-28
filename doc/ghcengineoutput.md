@@ -19,7 +19,7 @@ Schema document to format in Json the timetable created by PenalaraGHC.
 | Property                | Type      | Required | Nullable       | Defined by                                                                                                                                                                                            |
 | :---------------------- | :-------- | :------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [date](#date)           | `string`  | Optional | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-jsongenerationdate.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/date")          |
-| [weight](#weight)       | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-jsongenerationdate-1.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/weight")      |
+| [weight](#weight)       | `integer` | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-resultweight.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/weight")              |
 | [timetable](#timetable) | `object`  | Required | cannot be null | [EngineOutputGHCSchema](ghcengineoutput-properties-generatedjsontimetable.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/timetable") |
 
 ## date
@@ -52,15 +52,15 @@ Weight of the result according to the non-mandatory conditions not fulfilled.
 
 *   is required
 
-*   Type: `integer` ([JsonGenerationDate](ghcengineoutput-properties-jsongenerationdate-1.md))
+*   Type: `integer` ([ResultWeight](ghcengineoutput-properties-resultweight.md))
 
 *   cannot be null
 
-*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-jsongenerationdate-1.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/weight")
+*   defined in: [EngineOutputGHCSchema](ghcengineoutput-properties-resultweight.md "https://github.com/penalara/jsonGhcSchemas/blob/main/schemas/common/ghcEngineOutput.schema.json#/properties/weight")
 
 ### weight Type
 
-`integer` ([JsonGenerationDate](ghcengineoutput-properties-jsongenerationdate-1.md))
+`integer` ([ResultWeight](ghcengineoutput-properties-resultweight.md))
 
 ## timetable
 
