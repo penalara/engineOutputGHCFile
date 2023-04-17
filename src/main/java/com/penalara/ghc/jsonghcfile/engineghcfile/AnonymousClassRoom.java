@@ -1,5 +1,5 @@
 
-package com.penalara.ghc.jsonghcfile.engineoutput;
+package com.penalara.ghc.jsonghcfile.engineghcfile;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -40,26 +40,6 @@ public class AnonymousClassRoom {
     @JsonProperty("classRoomsCreated")
     @JsonPropertyDescription("List of anonymous classroom created in one set of classrooms.")
     private List<String> classRoomsCreated = new ArrayList<String>();
-
-    /**
-     * No args constructor for use in serialization
-     * 
-     */
-    public AnonymousClassRoom() {
-    }
-
-    /**
-     * 
-     * @param refClassRoomsSet
-     *     Identifier of the ClassRooms group.
-     * @param classRoomsCreated
-     *     ListOfAnonymousRooms. List of anonymous classroom created in one set of classrooms.
-     */
-    public AnonymousClassRoom(String refClassRoomsSet, List<String> classRoomsCreated) {
-        super();
-        this.refClassRoomsSet = refClassRoomsSet;
-        this.classRoomsCreated = classRoomsCreated;
-    }
 
     /**
      * Identifier of the ClassRooms group.

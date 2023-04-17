@@ -1,5 +1,5 @@
 
-package com.penalara.ghc.jsonghcfile.engineoutput;
+package com.penalara.ghc.jsonghcfile.engineghcfile;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -41,26 +41,6 @@ public class GeneratedJsonTimetable {
     @JsonProperty("anonymousClassRooms")
     @JsonPropertyDescription("Collection with anonymous classrooms created by the engine. The classrooms are grouped by set of classrooms.")
     private List<AnonymousClassRoom> anonymousClassRooms = new ArrayList<AnonymousClassRoom>();
-
-    /**
-     * No args constructor for use in serialization
-     * 
-     */
-    public GeneratedJsonTimetable() {
-    }
-
-    /**
-     * 
-     * @param anonymousClassRooms
-     *     SetOfAnonymousClassRooms. Collection with anonymous classrooms created by the engine. The classrooms are grouped by set of classrooms.
-     * @param assignedSections
-     *     AssignedSections. List of sections assigned in the Timetable.
-     */
-    public GeneratedJsonTimetable(List<AssignedSection> assignedSections, List<AnonymousClassRoom> anonymousClassRooms) {
-        super();
-        this.assignedSections = assignedSections;
-        this.anonymousClassRooms = anonymousClassRooms;
-    }
 
     /**
      * AssignedSections
