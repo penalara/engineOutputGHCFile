@@ -19,6 +19,8 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
     "day",
     "realIndex",
     "fictionalIndex",
+    "startTime",
+    "endTime",
     "assignment"
 })
 public class AssignedSection {
@@ -56,9 +58,24 @@ public class AssignedSection {
     @JsonPropertyDescription("Position on the day, of the fictional section, in the frame.")
     private Integer fictionalIndex;
     /**
+     * Start time of the section with a fictional index where sessions are assigned
+     * 
+     */
+    @JsonProperty("startTime")
+    @JsonPropertyDescription("Start time of the section with a fictional index where sessions are assigned")
+    private String startTime;
+    /**
+     * Start time of the section with a fictional index where sessions are assigned
+     * 
+     */
+    @JsonProperty("endTime")
+    @JsonPropertyDescription("Start time of the section with a fictional index where sessions are assigned")
+    private String endTime;
+    /**
      * Assignment
      * <p>
      * Object with list of each type of session can be assigned in the section (teaching session, meetings, complementary activities, on call services).
+     * (Required)
      * 
      */
     @JsonProperty("assignment")
@@ -146,9 +163,46 @@ public class AssignedSection {
     }
 
     /**
+     * Start time of the section with a fictional index where sessions are assigned
+     * 
+     */
+    @JsonProperty("startTime")
+    public String getStartTime() {
+        return startTime;
+    }
+
+    /**
+     * Start time of the section with a fictional index where sessions are assigned
+     * 
+     */
+    @JsonProperty("startTime")
+    public void setStartTime(String startTime) {
+        this.startTime = startTime;
+    }
+
+    /**
+     * Start time of the section with a fictional index where sessions are assigned
+     * 
+     */
+    @JsonProperty("endTime")
+    public String getEndTime() {
+        return endTime;
+    }
+
+    /**
+     * Start time of the section with a fictional index where sessions are assigned
+     * 
+     */
+    @JsonProperty("endTime")
+    public void setEndTime(String endTime) {
+        this.endTime = endTime;
+    }
+
+    /**
      * Assignment
      * <p>
      * Object with list of each type of session can be assigned in the section (teaching session, meetings, complementary activities, on call services).
+     * (Required)
      * 
      */
     @JsonProperty("assignment")
@@ -160,6 +214,7 @@ public class AssignedSection {
      * Assignment
      * <p>
      * Object with list of each type of session can be assigned in the section (teaching session, meetings, complementary activities, on call services).
+     * (Required)
      * 
      */
     @JsonProperty("assignment")
